@@ -17,7 +17,7 @@ describe('Cenario Registro de usuario', () => {
  
 
     it('registro de usuario', () => {
-      cy.visit('https://seubarriga.wcaquino.me/addConta')
+      cy.visit('https://seubarriga.wcaquino.me/Login')
     })
 
    
